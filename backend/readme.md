@@ -1,4 +1,4 @@
-# NutriSync Backend
+# HealthyBytes Backend
 
 The backend service for the smart health applications, built with Node.js, Express, and Firebase Firestore. It integrates the Google Gemini API for intelligent, context-aware food and exercise recommendations.
 
